@@ -28,10 +28,10 @@ taskone/
 ├── results.csv            # 各组实验的 Accuracy 与 Macro-F1
 └── bert_nyt/              # 微调后的 BERT 模型
 ```
-
+(HW-1需自行创建添加数据集，glove可网页下载，splits，results，bert_nyt均会在运行代码后自行生成)
 ## 3. 运行步骤
 
-按顺序执行以下命令：
+创建HW-1文件夹并放入数据集，再按顺序执行以下命令：
 
 ```bash
 # 第 1 步：数据划分
